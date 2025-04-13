@@ -41,6 +41,10 @@ public class BaseTest {
 		System.out.println("******************************************");
 		System.out.println("Appium Server Started:" + service.isRunning());
 		System.out.println("******************************************");
+		
+		r Started:" + service.isRunning());
+			System.out.println("******************************************");
+
 
 	}
 
